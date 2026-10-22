@@ -1,2 +1,4 @@
 .env
 nginx/ssl/*.key
+nginx/ssl/*.crt
+nginx/logs/*.log
